@@ -1,3 +1,3 @@
 # stackblitz-starters-aqdyyp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-aqdyyp)
+A simple website that allows you to add tasks and mark them as complete.
